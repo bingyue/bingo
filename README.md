@@ -1,4 +1,4 @@
 bingo
 =====
 
-My graduation design in University of Jinan.
+济南大学毕业设计 简单的全文搜索引擎。
