@@ -1,0 +1,6 @@
+启动tomcat服务后，
+默认访问路径：http://localhost:8080/Bingo_Search/main.jsp
+
+如果出现中文乱码，请手工更改浏览器编码为gbk。
+
+如果提示Servlet导入失败，请添加server runtime library至构建路径。
